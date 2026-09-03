@@ -22,4 +22,4 @@ The Arduino code reads predefined movement sequences or sensor input (if integra
 MIT License — use, modify, and share freely.
 
 ---
-Made by Abas Ismael and Artisom Baranovich
+Code by Abas Ismael and Artisom Baranovich
